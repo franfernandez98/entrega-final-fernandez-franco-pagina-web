@@ -1,0 +1,4 @@
+.texto-contactos {
+@include flex (row, center, center, 3px solid $color-white, $color-white)
+}
+
